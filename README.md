@@ -14,7 +14,6 @@ You can install the required packages using pip:
 
 ```bash
 pip install beautifulsoup4 requests
-# Indeed-Jobs-Web-Scraping-Save-to-CSV
 
 ## Usage
 1. Clone the repository:
@@ -33,7 +32,6 @@ cd Indeed-Jobs-Web-Scraping-Save-to-CSV
 
 ```
 python scrape_jobs.py
-
 
 ```
 
